@@ -1,4 +1,4 @@
 hang
 *.pro
 *.o
-*.pro.*
+*.pro.user
