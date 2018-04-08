@@ -14,10 +14,10 @@ int main()
     std::string path{""};
     switch (lang) {
     case L'r':
-        path = "../hang/ro_dic.conf";
+        path = "./dictionaries/ro_dic.conf";
         break;
     case L'e':
-        path = "";
+        path = "./dictionaries/en_dic.conf";
     default:
         break;
     }

@@ -1,3 +1,4 @@
 hang
 *.pro
 *.o
+*.pro.*
